@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on applying calculus on programming<br>🌱 I’m currently learning QT<br>
+🔭 I’m currently working on my github.pages<br>🌱 I’m currently learning and applying optimization theory<br>
 
 
 ## 🌐 Socials:
