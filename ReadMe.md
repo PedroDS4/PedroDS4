@@ -55,8 +55,8 @@ Atualmente estou desenvolvendo projetos e estudos nas áreas de:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&locale=pt-br" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroDS4&show_icons=true&theme=github_dark&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDS4&layout=compact&theme=github_dark" />
 </div>
 
 ---
