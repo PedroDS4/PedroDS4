@@ -35,11 +35,11 @@ Atualmente estou desenvolvendo projetos e estudos nas áreas de:
 ## 💻 Linguagens e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,arduino,vhdl,verilog,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,arduino,vhdl,javascript" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,octave,linux" />
 </div>
 
-> *As linguagens destacadas acima refletem o que mais utilizo em meus projetos atuais. Para uma visão automática baseada nas contribuições do GitHub, confira a seção de linguagens no topo da minha [página de perfil](https://github.com/SEU_USUARIO).*
+> *As linguagens destacadas acima refletem o que mais utilizo em meus projetos atuais. Para uma visão automática baseada nas contribuições do GitHub, confira a seção de linguagens no topo da minha [página de perfil](https://github.com/PedroDS4).*
 
 ---
 
