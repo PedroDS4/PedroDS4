@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Engenharia Mecatrônica <br>
-🔬 Apaixonado por ciência, tecnologia e desenvolvimento de sistemas inteligentes <br>
+🔬 Apaixonado por Processamento de sinais, Otimização, Controle e Eletrônica <br>
 📍 Brasil
 </p>
 
@@ -45,24 +45,36 @@ Atualmente estou desenvolvendo projetos e estudos nas áreas de:
 
 ## 🌐 Onde me encontrar
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/SEU_USUARIO)  
-- 📄 [Currículo Lattes](http://lattes.cnpq.br/SEU_ID_LATTES)  
-- 📸 [Instagram](https://www.instagram.com/SEU_INSTAGRAM)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-santos-720a8b366)  
+- 📄 [Currículo Lattes](http://lattes.cnpq.br/8394422576430159)  
+- 📸 [Instagram](https://www.instagram.com/pedro_a2393)  
 
 ---
 
-## 📂 Repositórios em Destaque
 
-Aqui estão alguns dos meus repositórios mais legais e ativos:
+## 📊 Estatísticas do GitHub
 
-- 🔍 [**Deconvolução de Sinais Sísmicos**](https://github.com/SEU_USUARIO/NOME_REPO_DECONVOLUCAO)  
-  *Implementação de técnicas para estimar sinais de refletividade a partir de traços sísmicos.*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark" />
+</div>
 
-- ⚡ [**Controle de Motor DC com Arduino**](https://github.com/SEU_USUARIO/NOME_REPO_CONTROLE_MOTOR)  
-  *Sistema de controle de velocidade de motores com PWM e sensores de feedback.*
+---
 
-- 🧠 [**Processamento Digital de Imagens**](https://github.com/SEU_USUARIO/NOME_REPO_PDI)  
-  *Scripts e algoritmos para realce, segmentação e compressão de imagens.*
+## 🚀 Repositórios em Destaque
+
+<div align="center">
+  <a href="https://github.com/PedroDS4/Projeto-Final-Processamento-Digital-de-Imagens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroDS4&repo=Projeto-Final-Processamento-Digital-de-Imagens&theme=github_dark" />
+  </a>
+  <a href="https://github.com/PedroDS4/l1_norm_inversion_method_for_deconvolution_in_attenuating_media">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroDS4&repo=l1_norm_inversion_method_for_deconvolution_in_attenuating_media&theme=github_dark" />
+  </a>
+  <a href="https://github.com/PedroDS4/Projeto-Unidade-Logica-Aritmetica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroDS4&repo=Projeto-Unidade-Logica-Aritmetica&theme=github_dark" />
+  </a>
+</div>
+
 
 > Para ver todos os meus projetos, acesse a aba **Repositories** no meu perfil!
 
