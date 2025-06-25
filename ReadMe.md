@@ -1,23 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on my github.pages<br>🌱 I’m currently learning and applying optimization theory to deconvolution problems<br>
+<h1 align="center">👋 Olá, eu sou o Pedro Santos!</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-arthur-750536264) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PedroDS4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PedroDS4&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDS4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PedroDS4&limit=5&theme=nord&combine_all_yearly_contributions=true)
+<p align="center">
+🎓 Estudante de Engenharia Mecatrônica <br>
+🔬 Apaixonado por ciência, tecnologia e desenvolvimento de sistemas inteligentes <br>
+📍 Brasil
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PedroDS4&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Sobre mim
+
+Sou graduando em **Engenharia Mecatrônica**, com grande interesse nas áreas de:
+
+- 📡 **Processamento de Sinais**
+- ⚙️ **Controle de Sistemas**
+- 🧮 **Otimização**
+- 🌋 **Deconvolução de Sinais Sísmicos**
+- 💡 **Eletrônica Analógica e Digital**
+- 🖼️ **Processamento Digital de Imagens**
+
+---
+
+## 🔧 No que estou trabalhando atualmente
+
+Atualmente estou desenvolvendo projetos e estudos nas áreas de:
+
+- 🧠 **Deconvolução de sinais sísmicos** com técnicas clássicas e baseadas em entropia
+- 📘 **Projetos RTL (Register Transfer Level)** de sistemas digitais (com VHDL/Verilog)
+- 🔋 **Projetos de circuitos eletrônicos** para controle e acionamento
+- 🔁 **Controle de velocidade de motores** com PWM e microcontroladores
+
+---
+
+## 💻 Linguagens e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,arduino,vhdl,verilog,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,octave,linux" />
+</div>
+
+> *As linguagens destacadas acima refletem o que mais utilizo em meus projetos atuais. Para uma visão automática baseada nas contribuições do GitHub, confira a seção de linguagens no topo da minha [página de perfil](https://github.com/SEU_USUARIO).*
+
+---
+
+## 🌐 Onde me encontrar
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/SEU_USUARIO)  
+- 📄 [Currículo Lattes](http://lattes.cnpq.br/SEU_ID_LATTES)  
+- 📸 [Instagram](https://www.instagram.com/SEU_INSTAGRAM)  
+
+---
+
+## 📂 Repositórios em Destaque
+
+Aqui estão alguns dos meus repositórios mais legais e ativos:
+
+- 🔍 [**Deconvolução de Sinais Sísmicos**](https://github.com/SEU_USUARIO/NOME_REPO_DECONVOLUCAO)  
+  *Implementação de técnicas para estimar sinais de refletividade a partir de traços sísmicos.*
+
+- ⚡ [**Controle de Motor DC com Arduino**](https://github.com/SEU_USUARIO/NOME_REPO_CONTROLE_MOTOR)  
+  *Sistema de controle de velocidade de motores com PWM e sensores de feedback.*
+
+- 🧠 [**Processamento Digital de Imagens**](https://github.com/SEU_USUARIO/NOME_REPO_PDI)  
+  *Scripts e algoritmos para realce, segmentação e compressão de imagens.*
+
+> Para ver todos os meus projetos, acesse a aba **Repositories** no meu perfil!
+
+---
+
+<p align="center">
+  🚀 Sempre aprendendo, sempre criando. Vamos construir algo incrível juntos!
+</p>
