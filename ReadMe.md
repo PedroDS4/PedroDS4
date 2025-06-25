@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my github.pages<br>🌱 I’m currently learning and applying optimization theory<br>
+🔭 I’m currently working on my github.pages<br>🌱 I’m currently learning and applying optimization theory to deconvolution problems<br>
 
 
 ## 🌐 Socials:
