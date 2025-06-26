@@ -25,7 +25,7 @@ Sou graduando em **Engenharia Mecatrônica**, com grande interesse nas áreas de
 
 Atualmente estou desenvolvendo projetos e estudos nas áreas de:
 
-- 🧠 **Deconvolução de sinais sísmicos** com técnicas clássicas e baseadas em entropia
+- 🧠 **Deconvolução de sinais sísmicos** com técnicas clássicas e baseadas em estimação
 - 📘 **Projetos RTL (Register Transfer Level)** de sistemas digitais (com VHDL/Verilog)
 - 🔋 **Projetos de circuitos eletrônicos** para controle e acionamento
 - 🔁 **Controle de velocidade de motores** com PWM e microcontroladores
